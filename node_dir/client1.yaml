@@ -1,0 +1,6 @@
+---
+key: value
+
+terraform_vars:
+  tfvar1: "tfval1"
+  tfvar2: "tfval2"
